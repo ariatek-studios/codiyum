@@ -1,5 +1,5 @@
-# VSCode Web
-This project is aimed to build a web version of VSCode, this is not a fork, simply a web compilation of the VSCode project.
+# Codiyum
+This project is aimed to build a web based code editor that uses web compilation of the VSCode project as its base and adds terminal functionality using xterm.js. This project is intended run in the browser as a web app.
 
 Here is a StackBlitz sample 
 https://stackblitz.com/edit/vscode-web
