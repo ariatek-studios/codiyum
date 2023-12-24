@@ -1,7 +1,7 @@
 {
 	"productConfiguration": {
-	  "nameShort": "VSCode Web Sample",
-	  "nameLong": "VSCode Web sample",
+	  "nameShort": "Codiyum Sample",
+	  "nameLong": "Codiyum sample",
 	  "applicationName": "code-web-sample",
 	  "dataFolderName": ".vscode-web-sample",
 	  "version": "1.75.0",
